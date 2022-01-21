@@ -1,0 +1,9 @@
+C:\Development\AngularPlayGround\MockE2E\ProxyAPI\bin\Debug\netstandard2.1\ProxyAPI.deps.json
+C:\Development\AngularPlayGround\MockE2E\ProxyAPI\bin\Debug\netstandard2.1\ProxyAPI.dll
+C:\Development\AngularPlayGround\MockE2E\ProxyAPI\bin\Debug\netstandard2.1\ProxyAPI.pdb
+C:\Development\AngularPlayGround\MockE2E\ProxyAPI\obj\Debug\netstandard2.1\ProxyAPI.csproj.AssemblyReference.cache
+C:\Development\AngularPlayGround\MockE2E\ProxyAPI\obj\Debug\netstandard2.1\ProxyAPI.AssemblyInfoInputs.cache
+C:\Development\AngularPlayGround\MockE2E\ProxyAPI\obj\Debug\netstandard2.1\ProxyAPI.AssemblyInfo.cs
+C:\Development\AngularPlayGround\MockE2E\ProxyAPI\obj\Debug\netstandard2.1\ProxyAPI.csproj.CoreCompileInputs.cache
+C:\Development\AngularPlayGround\MockE2E\ProxyAPI\obj\Debug\netstandard2.1\ProxyAPI.dll
+C:\Development\AngularPlayGround\MockE2E\ProxyAPI\obj\Debug\netstandard2.1\ProxyAPI.pdb
